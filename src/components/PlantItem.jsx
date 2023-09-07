@@ -1,4 +1,4 @@
-import CareScale from "./Carescale"
+import CareScale from "./CareScale"
 
 // Je récupère les props et je les passent en arguments à la fonction PlantItem
 function PlantItem({ cover, name, price, water, light, cart, updateCart }) {
